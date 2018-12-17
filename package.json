@@ -6,5 +6,8 @@
   "repository": "https://github.com/dinisi/perilla-languages.git",
   "author": "ZhangZisu <admin@zhangzisu.cn>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "scripts": {
+    "prepublishOnly": "tsc"
+  }
 }
