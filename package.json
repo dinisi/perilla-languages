@@ -1,12 +1,13 @@
 {
   "name": "perilla-languages",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Solution language collection",
   "main": "dist/index.js",
   "repository": "https://github.com/dinisi/perilla-languages.git",
   "author": "ZhangZisu <admin@zhangzisu.cn>",
   "license": "MIT",
   "private": false,
+  "typings": "dist/index",
   "scripts": {
     "prepublishOnly": "tsc"
   }
